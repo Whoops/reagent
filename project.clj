@@ -1,5 +1,5 @@
 
-(defproject whoops/reagent "0.4.3"
+(defproject whoops/reagent "0.4.4-alpha"
   :url "http://github.com/whoops/reagent"
   :license {:name "MIT"}
   :description "A simple ClojureScript interface to React"
